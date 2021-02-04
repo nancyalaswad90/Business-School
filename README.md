@@ -13,7 +13,7 @@ Today’s business objectives are achieved with user research, design, distribut
 |  Data Analyst Path |     [Udacity](https://github.com/nancyalaswad90/Data-Analyst-Nanodegree)  , [LinkedIn ](https://github.com/nancyalaswad90/LinkedIn-Program-for-Data-Analyst-Path)    |       Still in Progress       |
 |  Business Analytics |     [Udacity](https://github.com/nancyalaswad90/Business-Analysis-Nanodegree)      |       Still in Progress       |
 |  Predictive Analytics for Business |     Udacity  ,     |       Still in Progress       |
-| Product Manager |     [Udacity](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1594346870/pmp_certifiacation.pdf)      |      Still in Progress        |
+| Product Manager |     [Udacity](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1594346870/pmp_certifiacation.pdf)  , [LinkedIn ](https://github.com/nancyalaswad90/Project-Manager-Certifications/blob/main/README.md)    |      Still in Progress        |
 | Growth Product Manager |     Udacity      |      Still in Progress        |
 | UX Designer |     Udacity  ,     |       Still in Progress       |
 | Master SQL, the core language for Big Data analysis, |     Udacity     |        Still in Progress          |
