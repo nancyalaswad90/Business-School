@@ -11,7 +11,7 @@ Today’s business objectives are achieved with user research, design, distribut
 | **School of Business** | Organizations | Hand out |
 | ------------ | ------------ | ------------ |
 |  Data Analyst Path |     [Udacity](https://github.com/nancyalaswad90/Data-Analyst-Nanodegree)  , [LinkedIn ](https://github.com/nancyalaswad90/LinkedIn-Program-for-Data-Analyst-Path)    |       Still in Progress       |
-|  Business Analytics |     Udacity  ,     |       Still in Progress       |
+|  Business Analytics |     [Udacity](https://github.com/nancyalaswad90/Business-Analysis-Nanodegree)  ,     |       Still in Progress       |
 |  Predictive Analytics for Business |     Udacity  ,     |       Still in Progress       |
 | Product Manager |     Udacity      |      Still in Progress        |
 | Growth Product Manager |     Udacity      |      Still in Progress        |
