@@ -1,1 +1,4 @@
-# The-School-of-Business
+.
+
+
+# The School of Business
