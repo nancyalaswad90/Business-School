@@ -20,5 +20,8 @@ Today’s business objectives are achieved with user research, design, distribut
 | UX Designer |     Udacity  ,   [LinkedIn ](https://github.com/nancyalaswad90/Become-a-Graphic-Designer/blob/main/README.md)   |       Still in Progress       |
 | Master SQL, the core language for Big Data analysis, |     Udacity     |        Still in Progress          |
 | Digital Marketing Specialist |     [LinkedIn ](https://github.com/nancyalaswad90/Become-a-Digital-Marketing-Specialist/blob/main/README.md)   |   Still in Progress          |
+
+
+| Become a Sales Representative |     [LinkedIn ](https://github.com/nancyalaswad90/Become-a-Sales-Representative/blob/main/README.md)   |   Still in Progress          |
 | Activation and Retention Strategy |     Udacity    |       Still in Progress          |
 
