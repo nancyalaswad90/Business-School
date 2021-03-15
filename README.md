@@ -34,6 +34,13 @@ Today’s business objectives are achieved with user research, design, distribut
 ![Linkedin file2222](https://user-images.githubusercontent.com/36210723/111235079-98fc7e80-85f8-11eb-8201-41d4675baa5b.png)
 
 
+.
+
+
+## 2.  [GOOGLE CAREER Certifications](https://grow.google/certificates/?utm_source=gDigital&utm_medium=programgn&utm_campaign=gn&utm_content&utm_term#?modal_active=none)
+
+
+
 
 .
 
