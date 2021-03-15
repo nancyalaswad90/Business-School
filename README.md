@@ -22,8 +22,7 @@ Today’s business objectives are achieved with user research, design, distribut
 ## 1.  [Microsoft & LinkedIn  Certifications](https://www.elmin7a.com/free-courses-offered-by-microsoft-and-linkedin-with-free-certificates/)
 
 
-
- ### Get professional-level training from Google
+ - **Get professional-level training from LinkedIn**
 
 .
 
@@ -43,7 +42,7 @@ Today’s business objectives are achieved with user research, design, distribut
 
 
 
-Get professional-level training from Google
+ - **Get professional-level training from Google**
 .
 
 ![googl](https://user-images.githubusercontent.com/36210723/111235638-ba119f00-85f9-11eb-88c1-9d7ccd049ac6.png)
