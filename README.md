@@ -17,6 +17,9 @@ Today’s business objectives are achieved with user research, design, distribut
 
 
 
+.
+
+## 1.  Microsoft & LinkedIn  Certifications
 
 
 .
