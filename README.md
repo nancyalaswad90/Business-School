@@ -52,6 +52,21 @@ Today’s business objectives are achieved with user research, design, distribut
 
 .
 
+## The required Certifications For Master degree scholarship / study 
+
+
+### English Online courses
+
+- [Study Material for IELTS ](https://www.elmin7a.com/new-material-for-ielts/)
+
+- [British Council  for Online courses](https://learnenglish.britishcouncil.org/online-courses/english-online)
+
+
+
+
+
+
+.
 
 ## My Certification 
 
@@ -79,5 +94,3 @@ Today’s business objectives are achieved with user research, design, distribut
 ----------------------------
 
 
-
-- [Study Material for IELTS ](https://www.elmin7a.com/new-material-for-ielts/)
