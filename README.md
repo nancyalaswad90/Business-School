@@ -39,8 +39,11 @@ Today’s business objectives are achieved with user research, design, distribut
 
 
 
-## 2.  [GPluralsight and the 2021 Google Certifications](https://grow.google/certificates/?utm_source=gDigital&utm_medium=programgn&utm_campaign=gn&utm_content&utm_term#?modal_active=none)
+## 2.  [GPluralsight and the 2021 Google Certifications](https://www.pluralsight.com/partners/google/africa/gads-2021?aid=7014Q0000023RnOQAU&oid=&promo=&utm_campaign=&utm_content=&utm_medium=partner_partner_web_referral&utm_source=&utm_term=)
 
+
+
+The Google Africa Developer Scholarship (GADS) program gives participants free access to select courses, projects, embedded labs, and skill assessments. This is an opportunity for you to further advance your knowledge and skills in Android, Google Cloud, or Mobile Web technologies.
 
 
 
