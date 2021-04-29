@@ -39,7 +39,7 @@ Today’s business objectives are achieved with user research, design, distribut
 
 
 
-## 2.  [GPluralsight and the 2021 Google Certifications](https://www.pluralsight.com/partners/google/africa/gads-2021?aid=7014Q0000023RnOQAU&oid=&promo=&utm_campaign=&utm_content=&utm_medium=partner_partner_web_referral&utm_source=&utm_term=)
+## 2.  [Pluralsight and the 2021 Google Certifications](https://www.pluralsight.com/partners/google/africa/gads-2021?aid=7014Q0000023RnOQAU&oid=&promo=&utm_campaign=&utm_content=&utm_medium=partner_partner_web_referral&utm_source=&utm_term=)
 
 
 
