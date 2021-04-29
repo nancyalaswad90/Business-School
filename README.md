@@ -68,7 +68,7 @@ The Google Africa Developer Scholarship (GADS) program gives participants free a
 .
 
 
-> **How to Gain these courses : **
+> ** How to Gain these courses : **
 
  1. [Make profile in kiron](https://campus.kiron.ngo/explore)
  
