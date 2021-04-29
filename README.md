@@ -46,8 +46,11 @@ Today’s business objectives are achieved with user research, design, distribut
 The Google Africa Developer Scholarship (GADS) program gives participants free access to select courses, projects, embedded labs, and skill assessments. This is an opportunity for you to further advance your knowledge and skills in Android, Google Cloud, or Mobile Web technologies.
 
 
+.
 
 
+> ![Pluralsight and the 2021 Google.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1619730878/Pluralsight_and_the_2021_Google.png)
+> 
 
 .
 
