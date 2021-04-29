@@ -38,7 +38,19 @@ Today’s business objectives are achieved with user research, design, distribut
 .
 
 
-## 2.  [GOOGLE CAREER Certifications](https://grow.google/certificates/?utm_source=gDigital&utm_medium=programgn&utm_campaign=gn&utm_content&utm_term#?modal_active=none)
+
+## 2.  [GPluralsight and the 2021 Google Certifications](https://grow.google/certificates/?utm_source=gDigital&utm_medium=programgn&utm_campaign=gn&utm_content&utm_term#?modal_active=none)
+
+
+
+
+
+
+.
+
+
+
+## 3.  [GOOGLE CAREER Certifications](https://grow.google/certificates/?utm_source=gDigital&utm_medium=programgn&utm_campaign=gn&utm_content&utm_term#?modal_active=none)
 
 
 
