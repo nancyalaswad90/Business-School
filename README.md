@@ -1,7 +1,7 @@
 .
 
 
-> # [Business SCHOOL](https://www.udacity.com/school-of-business) [😊](https://classroom.udacity.com/nanodegrees/nd098/parts/5966ce46-17c7-4491-9856-6fa905d02a83)
+> # [Business School](https://www.udacity.com/school-of-business) [😊](https://classroom.udacity.com/nanodegrees/nd098/parts/5966ce46-17c7-4491-9856-6fa905d02a83)
 
 
 Today’s business objectives are achieved with user research, design, distribution, analysis, and strategy. Whether you’re getting started or advancing your career, you’ll establish the right foundations with Udacity’s School of Business.
