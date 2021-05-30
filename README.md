@@ -38,6 +38,10 @@ Today’s business objectives are achieved with user research, design, distribut
 
 
 
+## Free Courses
+
+
+- [Problem Solving with Advanced Analytics by Alteryx](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 
 
 
