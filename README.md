@@ -13,7 +13,7 @@ Today’s business objectives are achieved with user research, design, distribut
 
 | **School of Business** | Organizations | Hand out |
 | ------------ | ------------ | ------------ |
-|Accounting Certifications | [IMA](https://github.com/nancyalaswad90/IMA-Accounting-Certifications) | ------------ |
+|Accounting Certifications | **[Master & First Bachelor as Accounting ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA.pdf)** & [IMA](https://github.com/nancyalaswad90/IMA-Accounting-Certifications) | ------------ |
 |  Data Analyst Path |     [Udacity](https://github.com/nancyalaswad90/Data-Analyst-Nanodegree)  , [LinkedIn ](https://github.com/nancyalaswad90/LinkedIn-Program-for-Data-Analyst-Path)    |       Still in Progress       |
 |  Financial Analyst Path |   [LinkedIn ](https://github.com/nancyalaswad90/Become-a-Financial-Analyst)   |       Still in Progress       |
 |  Business Analytics |     [Udacity](https://github.com/nancyalaswad90/Business-Analysis-Nanodegree) ,[LinkedIn ](https://www.linkedin.com/learning/paths/become-a-financial-analyst)     |       [Hand out ](https://github.com/nancyalaswad90/Business-Analysis-Nanodegree/blob/master/Hand%20out%20.md)     |
