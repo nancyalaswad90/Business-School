@@ -13,7 +13,7 @@ Today’s business objectives are achieved with user research, design, distribut
 
 | **School of Business** | Organizations | Hand out |
 | ------------ | ------------ | ------------ |
-|Accounting Certifications | **[Master & First Bachelor as Accounting ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA.pdf)** & [IMA](https://github.com/nancyalaswad90/IMA-Accounting-Certifications) | ------------ |
+|Accounting Certifications | **[Ph.D. candidate in Accounting](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Universities%20specializing%20in%20accounting.md)** | ------------ |
 |  Data Analyst Path |     [Udacity](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/blob/main/Udacity%20Data%20Analyst%20Nanodegree.md)  , [LinkedIn ](https://github.com/nancyalaswad90/LinkedIn-Program-for-Data-Analyst-Path)    |       Still in Progress       |
 |  Financial Analyst Path |   [LinkedIn ](https://github.com/nancyalaswad90/Become-a-Financial-Analyst)   |       Still in Progress       |
 |  Business Analytics |     [Udacity](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/blob/main/Business%20Analytics.md) ,[LinkedIn ](https://www.linkedin.com/learning/paths/become-a-financial-analyst)     |       [Hand out ](https://github.com/nancyalaswad90/Business-Analysis-Nanodegree/blob/master/Hand%20out%20.md)     |
