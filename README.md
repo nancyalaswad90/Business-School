@@ -4,6 +4,16 @@
 > # [Business School](https://www.udacity.com/school-of-business) [😊](https://classroom.udacity.com/nanodegrees/nd098/parts/5966ce46-17c7-4491-9856-6fa905d02a83)
 
 
+.
+
+make update private for 
+
+
+
+
+.
+
+
 Today’s business objectives are achieved with user research, design, distribution, analysis, and strategy. Whether you’re getting started or advancing your career, I establish my foundations with many School of Business such as **Udacity , LinkedIn , IMA , CFI** ,and some Jordanian universities such as **Jdara university, Al-Zaytoonah university, And Arab Open university.**
 
 
