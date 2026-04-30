@@ -17,7 +17,7 @@ Today’s business objectives are achieved with user research, design, distribut
 |  Data Analyst Path |     [Udacity](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/blob/main/Udacity%20Data%20Analyst%20Nanodegree.md)  , [LinkedIn ](https://github.com/nancyalaswad90/LinkedIn-Program-for-Data-Analyst-Path)    |       Still in Progress       |
 |  Financial Analyst Path |   [LinkedIn ](https://github.com/nancyalaswad90/Become-a-Financial-Analyst)   |       Still in Progress       |
 |  Business Analytics |     [Udacity](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications/blob/main/Business%20Analytics.md) ,[LinkedIn ](https://www.linkedin.com/learning/paths/become-a-financial-analyst)     |       [Hand out ](https://github.com/nancyalaswad90/Business-Analysis-Nanodegree/blob/master/Hand%20out%20.md)     |
-|  Predictive Analytics for Business |     Udacity  ,     |       Still in Progress       |
+|  Predictive Analytics for Business |     Udacity  ,     |      Completed      |
 | Product Manager |     [Udacity](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1594346870/pmp_certifiacation.pdf)  , [LinkedIn ](https://github.com/nancyalaswad90/Project-Manager-Certifications/blob/main/README.md)    |      Still in Progress        |
 | Growth Product Manager |     Udacity      |      Still in Progress        |
 | UX Designer |     Udacity  ,   [LinkedIn ](https://github.com/nancyalaswad90/Become-a-Graphic-Designer/blob/main/README.md)   |       Still in Progress       |
