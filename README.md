@@ -6,8 +6,7 @@
 
 .
 
-make update private for 
-
+make update private for sharing with public 
 
 
 
