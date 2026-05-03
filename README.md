@@ -6,12 +6,6 @@
 
 .
 
-make update private for sharing with public 
-
-
-
-.
-
 
 Today’s business objectives are achieved with user research, design, distribution, analysis, and strategy. Whether you’re getting started or advancing your career, I establish my foundations with many School of Business such as **Udacity , LinkedIn , IMA , CFI** ,and some Jordanian universities such as **Jdara university, Al-Zaytoonah university, And Arab Open university.**
 
